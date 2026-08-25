@@ -1,83 +1,167 @@
+<div align="center">
+
 # 👋 Hi, I'm Diksha Singh Thakur
 
 ### 💻 Computer Science Student | Java & Full-Stack Developer
 
-I'm a Computer Science Engineering student passionate about **software development, problem-solving, and building real-world projects**. I enjoy learning new technologies and turning ideas into practical applications.
+**🚀 Building Real-World Projects • ☕ Learning Java & DSA • 🤖 Exploring AI**
+
+</div>
+
+---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+Java+%26+DSA;Exploring+AI+%26+Software+Development" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE Student
-* 💻 Interested in **Java, Full-Stack Development & Software Engineering**
-* 🧩 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **AI/ML & Generative AI**
-* 🛠️ Building projects to strengthen my development skills
-* 🌱 Always learning, experimenting and improving
+🎓 B.Tech Computer Science & Engineering Student
+💻 Passionate about Software Development & Problem Solving
+☕ Currently strengthening **Java & DSA**
+🌐 Exploring **Full-Stack Development**
+🤖 Interested in **AI/ML & Generative AI**
+🛠️ Love turning ideas into practical projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`Java` `Python` `JavaScript` `C`
+### 💻 Languages
 
-**Frontend**
-`HTML` `CSS` `JavaScript` `React`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+</p>
 
-**Backend & Database**
-`Flask` `Spring Boot` `Firebase` `SQL`
+### 🎨 Frontend
 
-**Tools**
-`Git` `GitHub` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,spring,firebase,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 👁️ Eye Gaze / Iris Authentication System
+<p align="center">
 
-A webcam-based authentication system using iris pattern processing, template generation and Hamming Distance-based verification.
+<a href="https://github.com/dikshasinghthakur/eye-gaze-authentication">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=eye-gaze-authentication&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🛍️ Aura — Fashion E-Commerce Website
+<a href="https://github.com/dikshasinghthakur/skill-exchange">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=skill-exchange&theme=tokyonight&hide_border=true" />
+</a>
 
-A full-stack fashion e-commerce project designed with a modern and user-friendly shopping experience.
+<a href="https://github.com/dikshasinghthakur/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=portfolio&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🌦️ Weather Forecasting Website
+<a href="https://github.com/dikshasinghthakur/Elite-hack1.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=Elite-hack1.0&theme=tokyonight&hide_border=true" />
+</a>
 
-A responsive weather application that provides weather information through a clean and interactive interface.
-
-### 🔄 Skill Exchange Platform
-
-A platform designed to help users exchange skills, learn from each other and connect with suitable learning opportunities.
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-* ☕ Java & Data Structures
-* 🌐 Full-Stack Development
-* 🍃 Spring Boot
-* 🤖 AI / Machine Learning
-* 🧠 Generative AI
+```text
+☕ Java & Data Structures
+🌐 Full-Stack Development
+🍃 Spring Boot
+🤖 AI / Machine Learning
+🧠 Generative AI
+```
 
 ---
 
-## 💻 Coding & Profiles
+## 📊 GitHub Stats
 
-* 💻 **GitHub:** [@dikshasinghthakur](https://github.com/dikshasinghthakur)
-* 🧩 **LeetCode:** [dsthakur001](https://leetcode.com/u/dsthakur001/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshasinghthakur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasinghthakur&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dikshasinghthakur&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 Coding & Professional Profiles
+
+<p align="center">
+  <a href="https://github.com/dikshasinghthakur">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/dsthakur001/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diksha-singh-thakur-b170a7308/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+## 🏆 Certifications & Achievements
+
+* 🎓 B.Tech Computer Science & Engineering
+* ☕ Java & Data Structures and Algorithms
+* 🐍 Python Training / Certification
+* 🌐 Full-Stack Development Certification
+* 🏆 Hackathon & Technical Competition Participation
+* 📚 Continuous Learning in AI, Software Development & Emerging Technologies
 ---
 
 ## 🌱 My Goal
 
-> **Learn. Build. Solve. Improve. Repeat.**
+> **Learn • Build • Solve • Improve**
 
-I'm continuously working on improving my coding skills, building meaningful projects and preparing myself for opportunities in software development.
+I'm continuously working on my coding skills, building meaningful projects and preparing for opportunities in software development.
 
 ---
 
-### ✨ Thanks for visiting my profile!
+## 🤝 Let's Connect
 
-⭐ Feel free to explore my repositories and connect with me.
+<p align="center">
+  <a href="https://www.linkedin.com/in/diksha-singh-thakur-b170a7308/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dikshasinghthakur">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/dsthakur001/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Open to learning, collaboration and exciting software development opportunities.
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
