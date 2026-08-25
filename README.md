@@ -77,7 +77,6 @@
 <a href="https://github.com/dikshasinghthakur/Elite-hack1.0">
 <img src="https://img.shields.io/badge/Elite%20Hack%201.0-View%20Project-181717?style=for-the-badge" />
 </a>
-
 </p>
 ---
 
@@ -90,17 +89,6 @@
 🤖 AI / Machine Learning
 🧠 Generative AI
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshasinghthakur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasinghthakur&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
 
 ## 💻 Coding & Professional Profiles
 
