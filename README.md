@@ -66,10 +66,11 @@
 
 <a href="https://github.com/dikshasinghthakur/skill-exchange">
 <img src="https://img.shields.io/badge/Skill%20Exchange-View%20Project-181717?style=for-the-badge" />
-</a>
+</a></p>
 
-<br><br>
-
+<br>
+<br>
+<p>
 <a href="https://github.com/dikshasinghthakur/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-View%20Project-181717?style=for-the-badge" />
 </a>
@@ -89,6 +90,13 @@
 🤖 AI / Machine Learning
 🧠 Generative AI
 ```
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dikshasinghthakur&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 💻 Coding & Professional Profiles
 
