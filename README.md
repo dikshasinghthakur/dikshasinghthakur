@@ -61,23 +61,24 @@
 <p align="center">
 
 <a href="https://github.com/dikshasinghthakur/eye-gaze-authentication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=eye-gaze-authentication&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/👁️%20Eye%20Gaze%20Authentication-View%20Project-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/dikshasinghthakur/skill-exchange">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=skill-exchange&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/🔄%20Skill%20Exchange-View%20Project-181717?style=for-the-badge" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/dikshasinghthakur/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=portfolio&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/💻%20Portfolio-View%20Project-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/dikshasinghthakur/Elite-hack1.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshasinghthakur&repo=Elite-hack1.0&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/🏆%20Elite%20Hack%201.0-View%20Project-181717?style=for-the-badge" />
 </a>
 
 </p>
-
 ---
 
 ## 📚 Currently Learning
