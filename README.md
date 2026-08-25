@@ -58,25 +58,67 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 👁️ Eye Gaze Authentication
+
+Webcam-based iris authentication system with real-time pattern verification and secure user enrollment.
+
+**Tech:** `Python` `Flask` `JavaScript`
 
 <a href="https://github.com/dikshasinghthakur/eye-gaze-authentication">
-<img src="https://img.shields.io/badge/Eye%20Gaze%20Authentication-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
+
+</td>
+
+<td width="50%">
+
+### 🔄 Skill Exchange
+
+A platform designed to help users exchange skills, learn from each other and connect with suitable opportunities.
+
+**Tech:** `HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/dikshasinghthakur/skill-exchange">
-<img src="https://img.shields.io/badge/Skill%20Exchange-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Personal Portfolio
+
+A developer portfolio showcasing projects, technical skills, achievements and professional information.
+
+**Tech:** `HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/dikshasinghthakur/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
+</td>
+
+<td width="50%">
+
+### 🏆 Elite Hack 1.0
+
+A hackathon project focused on solving a real-world problem through technology and collaborative development.
+
+**Tech:** `Development` `Problem Solving`
+
 <a href="https://github.com/dikshasinghthakur/Elite-hack1.0">
-<img src="https://img.shields.io/badge/Elite%20Hack%201.0-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
-</p>
----
+
+</td>
+</tr>
+</table>
 
 ## 📚 Currently Learning
 
