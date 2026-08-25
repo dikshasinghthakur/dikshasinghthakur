@@ -61,21 +61,21 @@
 <p align="center">
 
 <a href="https://github.com/dikshasinghthakur/eye-gaze-authentication">
-<img src="https://img.shields.io/badge/👁️%20Eye%20Gaze%20Authentication-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Eye%20Gaze%20Authentication-View%20Project-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/dikshasinghthakur/skill-exchange">
-<img src="https://img.shields.io/badge/🔄%20Skill%20Exchange-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Skill%20Exchange-View%20Project-181717?style=for-the-badge" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/dikshasinghthakur/portfolio">
-<img src="https://img.shields.io/badge/💻%20Portfolio-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio-View%20Project-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/dikshasinghthakur/Elite-hack1.0">
-<img src="https://img.shields.io/badge/🏆%20Elite%20Hack%201.0-View%20Project-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Elite%20Hack%201.0-View%20Project-181717?style=for-the-badge" />
 </a>
 
 </p>
@@ -98,14 +98,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshasinghthakur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasinghthakur&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dikshasinghthakur&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
