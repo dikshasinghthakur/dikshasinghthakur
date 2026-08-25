@@ -66,11 +66,8 @@
 
 <a href="https://github.com/dikshasinghthakur/skill-exchange">
 <img src="https://img.shields.io/badge/Skill%20Exchange-View%20Project-181717?style=for-the-badge" />
-</a></p>
+</a>
 
-<br>
-<br>
-<p>
 <a href="https://github.com/dikshasinghthakur/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-View%20Project-181717?style=for-the-badge" />
 </a>
